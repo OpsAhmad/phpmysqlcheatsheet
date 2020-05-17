@@ -112,7 +112,7 @@ $sql = mysqli_query($db, "DELETE FROM `users` WHERE 0");
 
 //Object Oriented  
 //$db->query("DELETE FROM `users` WHERE 0"); 
-//***************************CLOSE DATABASE**************** */
+//***************************CLOSE CONNECTION**************** */
 
 //mysqli_close($db);//PDO
 
